@@ -1,0 +1,47 @@
+{
+  "public": {
+    "ENVIRONMENT": "DEVELOPMENT",
+    "KEY": "dev",
+    "APPNAME": "by.U-DEV"
+  },
+  "secure": {
+    "URL_TYPE": "development",
+    "URL_API": "https://apidev.byu.id",
+    "URL_CMS": "https://webdev.byu.id",
+    "URL_CIAM": "https://apidev.byu.id",
+    "URL_CHATBOT": "https://tdwva.telkomsel.com/sa-ui",
+    "URL_CALLBACK_CIAM": "https://apidev.byu.id/callback-ciam-app",
+    "URL_ENRICHMENT_API": "https://apidev.byu.id",
+    "URL_REDIRECT_CIAM": "https://apidev.byu.id/api/ciam",
+    "URL_SUBS_NOTIFICATION": "https://apidev.byu.id",
+    "URL_ACN_RATING": "https://tdwva.telkomsel.com/sa-ui/byu/ces",
+
+    "INSPIGO_URL": "https://wapi.inspigo.id",
+    "INSPIGO_CLIENT_SECRET": "iKVYoOvzqWAt8QX2Bhl1ZiyzflNP6T",
+
+    "SENTRY_DSN": "https://0f158e3ce95e4b6282a6a3daa155e098@o418952.ingest.sentry.io/5325485",
+
+    "LANGITMUSIK_URL": "https://mapi.langitmusik.co.id",
+
+    "STRAPI_URL": "https://strapidev.byu.id",
+    "STRAPI_GUEST_MODE_URL": "https://strapidev.byu.id/guestmode",
+
+    "NETFLIX_SUBSCRIPTION": "https://netflix-widget.metranet.co.id/netflix-authentication",
+
+    "DYNATRACE_BEACON_URL": "https://dynadev.byu.id/mbeacon/7f1700c5-7752-4746-8e4f-7e2f4fbe334e",
+    "DYNATRACE_APPLICATION_ID": "e4dd600b-dc96-40b2-b220-aa345729387a",
+    "DYNATRACE_APPLICATION_ID_TESTING": "0f2cf427-2c8f-4140-9cfc-ba6cb49e44a8",
+
+    "URL_API_TBS": "https://apidev.byu.id",
+    "STRAPI_TBS_URL": "https://strapidev.byu.id",
+
+    "URL_MINI_GAMES": "https://webdev.byu.id/v2/mini-games",
+
+    "AQN_PARTNER_KEY": "498486084",
+    "AQN_SDK_KEY": "By.u:1b63c7ed-1757-4629-a4cc-3d3c29d2db16",
+    "AES_SECRET_KEY": "SmSJlNE9dzEJzV1aIZTNKyQ80Bp0QFt9",
+    "AES_SECRET_IV": "IQEoj5qLIbdY2F1v",
+
+    "APPSFLYER_KEY": "Dyqz4iRdj4aR9Y2hupRLm6"
+  }
+}
